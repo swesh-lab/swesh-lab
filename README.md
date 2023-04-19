@@ -10,6 +10,5 @@
 
 ##### Tools of Trade ─ <i> Software  ㅁ  Frameworks  ㅁ  Databases  ㅁ  Cloud Hosting </i>
 
-`Java` `C` `HTML` `CSS` `JavaScript` `Python` `SQL` `C++`
-`Bootstrap` `Git` `GitHub Desktop` `Postman` `Visual Studio Code`
-`MySQL` `Oracle` `NoSQL` `PostgreSQL` `GitHub Pages` `Heroku`
+`Java` `SpringBoot` `C` `HTML` `CSS` `JavaScript` `Python` `SQL` `Java GUI`
+`Bootstrap` `Postman` `MySQL` `Oracle` `NoSQL` `PostgreSQL` `Heroku`
