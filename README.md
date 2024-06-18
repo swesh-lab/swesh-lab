@@ -3,7 +3,7 @@
 ##### <i> </n> I'm a Senior Software Engineer with extensive experience in JAVA / J2EE, working currently in financial technology, developing application programming interfaces using various software systems with well-defined interfaces and operations ∎
 ##### Starting my career in information technology and combining my knowledge of systems and software with the desire for problem-solving was a great match for me. I can lead and create projects with passion! I deeply focus on the details. You will certainly find my ideas to be creative and competent ∎
 
-##### I keep leveraging technology and innovative pedagogy so feel free to have an insightful conversation with me. It could be more than just creating software products, emerging technologies / sci-fi, or even designing artwork ∎
+##### I keep leveraging technology and innovative pedagogy so feel free to have an insightful conversation with me. It could be more than just creating software products, emerging technologies/sci-fi, or even designing artwork ∎
 
 ##### I dazzle with brilliance in ─ sketching ✲ skygazing ✲ music ✲ planting ✲ inditing  </i>
 
