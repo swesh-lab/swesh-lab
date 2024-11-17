@@ -9,5 +9,7 @@
 
 ##### Tools of Trade ─ <i> Software  ㅁ  Frameworks  ㅁ  Databases  ㅁ  Cloud Hosting </i>
 
-`Java` `SpringBoot` `C` `HTML` `CSS` `JavaScript` `Python` `SQL` `Java GUI`
+`Java/J2EE` `SpringBoot` `Kubernetes` `gRPC` `C` `HTML` `CSS` `JavaScript` `Python` `SQL` `Java GUI`
 `Bootstrap` `Postman` `MySQL` `Oracle` `NoSQL` `PostgreSQL` `Heroku`
+
+##### View <a href="https://swesh-lab.github.io/portfolio/">PORTFOLIO</a>
